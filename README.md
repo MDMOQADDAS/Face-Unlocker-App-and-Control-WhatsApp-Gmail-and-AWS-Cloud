@@ -1,14 +1,14 @@
 # Face-Unlocker-App-and-Control-WhatsApp-Gmail-and-AWS-Cloud
 
---------------------------------------------------------------
-Requirements
+#--------------------------------------------------------------<br><br>
+Requirements <br><br>
 
 pip install os
-pip install subprocess
-pip install opencv-python
-pip install opencv-contrib-python
-pip install pywhatkit
-pip install awscli
+pip install subprocess<br><br>
+pip install opencv-python<br><br>
+pip install opencv-contrib-python<br><br>
+pip install pywhatkit<br><br>
+pip install awscli<br><br>
 
 
 ======================================================================
